@@ -1,0 +1,15 @@
+C:\Users\Programmer\source\repos\WpfApp71\bin\Debug\WpfApp71.exe.config
+C:\Users\Programmer\source\repos\WpfApp71\bin\Debug\WpfApp71.exe
+C:\Users\Programmer\source\repos\WpfApp71\bin\Debug\WpfApp71.pdb
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.csproj.AssemblyReference.cache
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\MainWindow.g.cs
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\App.g.cs
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71_MarkupCompile.cache
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71_MarkupCompile.lref
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\MainWindow.baml
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.g.resources
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.Properties.Resources.resources
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.csproj.GenerateResource.cache
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.exe
+C:\Users\Programmer\source\repos\WpfApp71\obj\Debug\WpfApp71.pdb

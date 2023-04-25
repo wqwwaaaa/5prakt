@@ -1,0 +1,31 @@
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\Ангелина\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.AssemblyReference.cache
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+E:\ПРАКТИКА\5 ghfrb\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
